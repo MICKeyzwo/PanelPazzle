@@ -1,0 +1,16 @@
+body {
+    background-color: #99f;
+}
+
+div.wrap {
+    width: 95vw;
+}
+
+div.main {
+    margin: 0 auto;
+}
+
+#canvas {
+    border: solid 1px black;
+    display: block;
+}
